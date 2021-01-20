@@ -1,5 +1,5 @@
 # IHM-2021-Projet-MOE-BANOR-DELMAS
-Gestionnaire de guilde pour maître de guilde
+Gestionnaire de guilde pour maître de guilde /n
 Description générale du projet:
 L’application sera principalement utile pour les maitre de guilde et aura comme but de faciliter la gestion de la guilde de l’utilisateur.
 Pour ce faire les fonctionnalité suivantes seront souhaité:
