@@ -1,4 +1,20 @@
 # IHM-2021-Projet-MOE-BANOR-DELMAS
+
+#Easy Guild
+
+MOA / représentants des utilisateurs
+|------------------------------------------------------|
+| Nom    | Prénom    | e-mail (IUT Rodez)              |
+| MILLET | Paul      | paul.millet@iut-rodez.fr        |
+| LUANS  | J-Charles | jean-charles.luans@iut-rodez.fr |
+
+| MOE / Concepteurs
+|------------------------------------------------|
+| Nom    | Prénom  |  e-mail (IUT Rodez)         |
+| BANOR  | Maëlle  |  maelle.banor@iut-rodez.fr  |
+| DELMAS | Yanis   |  yanis.delmas@iut-rodez.fr  |
+
+
 Gestionnaire de guilde pour maître de guilde  
 Description générale du projet:  
 L’application sera principalement utile pour les maitre de guilde et aura comme but de faciliter la gestion de la guilde de l’utilisateur.
