@@ -23,3 +23,6 @@ Pour ce faire les fonctionnalité suivantes seront souhaité:
 - Un calendrier qui permet de mettre en place des événements(raid/BG/autre) et de lister qui y participe. Avec un système de notifications.
 - Après un événement on doit pouvoir reporter qui était présent parmi les personnes lister dans cet événement et quel légendaire a t’il apporté.
 - Un historique des présences aux événements par joueur.
+
+
+Lien Analyse PACT --> https://docs.google.com/document/d/18uAmh-39WeOEllX-mfnDOzVe-XclmBdS1BI4vLZSJnQ/edit?usp=sharing
