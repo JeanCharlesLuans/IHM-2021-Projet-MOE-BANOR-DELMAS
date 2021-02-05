@@ -25,5 +25,5 @@ Pour ce faire les fonctionnalité suivantes seront souhaité:
 - Un historique des présences aux événements par joueur.
 
 
-Lien Analyse PACT --> https://docs.google.com/document/d/18uAmh-39WeOEllX-mfnDOzVe-XclmBdS1BI4vLZSJnQ/edit?usp=sharing
+Lien Analyse PACT --> https://docs.google.com/document/d/18uAmh-39WeOEllX-mfnDOzVe-XclmBdS1BI4vLZSJnQ/edit?usp=sharing <br/>
 Prototype --> https://drive.google.com/drive/folders/1yHw6OBnYF-S9fMhq-3FpwzO5Sh6q_pji
