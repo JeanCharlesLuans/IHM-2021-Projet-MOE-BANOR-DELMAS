@@ -27,3 +27,4 @@ Pour ce faire les fonctionnalité suivantes seront souhaité:
 
 Lien Analyse PACT --> https://docs.google.com/document/d/18uAmh-39WeOEllX-mfnDOzVe-XclmBdS1BI4vLZSJnQ/edit?usp=sharing <br/>
 Prototype --> https://drive.google.com/drive/folders/1yHw6OBnYF-S9fMhq-3FpwzO5Sh6q_pji
+Cheminement centré tâche --> https://docs.google.com/document/d/11z4o06BR9pyrI4imBWCHSWV2iry3N5-Jn5DPO8_TFAM/edit?usp=sharing
