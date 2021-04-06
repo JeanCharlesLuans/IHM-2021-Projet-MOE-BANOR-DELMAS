@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:weightSum="6"> <!-- nombre de colonnes -->
+
+    <TextView
+        android:id="@+id/textViewCol1"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Text"
+        android:padding="4dp"
+        android:textColor="@color/white"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <EditText
+        android:id="@+id/edit_demo"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:padding="4dp"/>
+
+    <TextView
+        android:id="@+id/textViewCol2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" * "
+        android:padding="4dp" />
+
+    <ImageView
+        android:id="@+id/imageMouv"
+        android:onClick="clicSurModification"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_set_as" />
+
+    <ImageView
+        android:id="@+id/imageDelete"
+        android:onClick="clicSurDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Easy Guild</string>
+    <string name="titrePage">Création personnage</string>
+	
+	<string name="title_add_input">Ajouter un nouveau champ</string>
+    <string name="title_modify_input">Modifier un champ</string>
+    <string name="title_help_menu">Aide à la gestion des personnages :</string>
+    <string name="label_name_input">Nom :</string>
+    <string name="placeholder_add_title">Entrez le nom du champ ici...</string>
+    <string name="placeholder_modify_title">Entrez le nom du champ à modifier ici...</string>
+    <string name="label_help_add_button">Bouton Ajouter :</string>
+    <string name="help_add_button">Appuyez sur ce bouton si vous voulez AJOUTER un nouveau champ concernant le personnage que les membres de votre guilde voudront inscrire.</string>
+    <string name="label_help_modify_button">Bouton Modifier :</string>
+    <string name="help_modify_button">Appuyez sur ce bouton si vous voulez MODIFIER le nom d\'un champ concernant le personnage que les membres de votre guilde voudront inscrire.</string>
+    <string name="label_help_suppress_button">Bouton Supprimer :</string>
+    <string name="help_suppress_button">Appuyez sur ce bouton si vous voulez SUPPRIMER le nom d\'un champ concernant le personnage que les membres de votre guilde voudront inscrire.</string>
+
+</resources>
